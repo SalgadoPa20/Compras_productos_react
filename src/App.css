@@ -1,0 +1,22 @@
+.product{
+  color:black;
+  background-color: #e5e4e7;
+  padding:2px 15px 20px;
+  margin-bottom: 10px;
+  width:47%;
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+  color: palevioletred;
+  padding: 5px;
+}
+img{
+  width:80%;
+}
+.container{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+}
